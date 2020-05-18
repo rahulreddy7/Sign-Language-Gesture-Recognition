@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">aslproject</string>
+    <string name="title">ASL Fingerspelling Detection</string>
+    <string name="desc">Please record your video</string>
+</resources>
